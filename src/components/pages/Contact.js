@@ -11,7 +11,7 @@ export default function Contact() {
       <ul>
       <li>Phone: (307)-389-3263</li>
       <li>Email: junez24@yahoo.com</li>
-      <li>LinkedIn: <a>https://www.linkedin.com/in/anjeh-mbah-12076250</a></li>
+      <li>LinkedIn: <button>https://www.linkedin.com/in/anjeh-mbah-12076250</button></li>
 </ul>
       </>
     </div>
