@@ -1,0 +1,9 @@
+.header {
+    padding: 25px 0;
+    text-align: center;
+    background: rgb(99, 47, 109);
+  }
+  .header img {
+    width: 100px;
+    height: 13px;
+  }
