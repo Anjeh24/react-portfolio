@@ -6,6 +6,13 @@ import Footer from './Footer.js';
 import Header from './components/pages/Header/Header.js';
 
 
-const App = () => <PortfolioContainer />;
+
+const App = () => {
+    return <>
+    <Header/>
+    <PortfolioContainer />
+    <Footer/>
+    </>
+    }
 
 export default App;
