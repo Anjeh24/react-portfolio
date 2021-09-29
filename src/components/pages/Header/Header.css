@@ -16,6 +16,12 @@
 
   .header img {
       width: 100px;
-      height: 75px;
+      height: 100px;
       border-radius: 50%;
+  }
+
+  .topleft {
+    position: absolute;
+    top: 8px;
+    left: 100px;
   }

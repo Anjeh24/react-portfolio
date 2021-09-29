@@ -2,8 +2,27 @@
     padding: 100px 0;
     text-align: center;
     background: rgb(192, 228, 31);
+    
   }
   .footer {
     width: 1400px;
-    height: 25px;
+    height: 30px;
+  }
+
+  p2 {
+    font-size: x-large;
+    font-weight: 400;
+    color: black;
+  }
+
+  .link1 {
+    font-size: x-large;
+    font-weight: 400;
+    color: black;
+  }
+
+  .link2 {
+    font-size: large;
+    font-weight: 500;
+    color: black;
   }
