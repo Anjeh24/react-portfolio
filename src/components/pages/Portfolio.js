@@ -30,11 +30,33 @@ export default function Portfolio() {
       <br/>
 
       <span>
-      <dt>
-        <div className="center">  <a href="https://anjeh24.github.io/Work-Day-Scheduler/"><img src={process.env.PUBLIC_URL + "/logo4.jpg"} /></a></div>
-      <p>Work Day Scheduler</p>
+      
+        <div className="center">  
+        <dt><a href="https://anjeh24.github.io/Work-Day-Scheduler/"><img src={process.env.PUBLIC_URL + "/logo4.jpg"} /></a>
+        <p>Work Day Scheduler</p></dt>
+        </div>
+      </span>
+
+      <span>
+      <dt><div >  <a href="https://drive.google.com/file/d/16x4p7WO-cTGW485EtC2ZdF1y8RW3MvTM/view"><img src={process.env.PUBLIC_URL + "/logo5.jpg"} /></a></div>
+      <p>Employee Tracker</p>
       </dt>
       </span>
+      <br/>
+
+      <span>
+      <dt><div >  <a href="https://anjeh24.github.io/Password-Generator/"><img src={process.env.PUBLIC_URL + "/logo6.png"} /></a></div>
+      <p>Professional Portfolio</p>
+      </dt>
+      </span>
+      <br/>
+
+      <span>
+      <dt><div >  <a href="https://anjeh24.github.io/Homework/"><img src={process.env.PUBLIC_URL + "/logo7.png"} /></a></div>
+      <p>Professional Portfolio</p>
+      </dt>
+      </span>
+      <br/>
 
       </main>
       </>
