@@ -1,3 +1,11 @@
+This project entails creation a REACT portfolio (functional app) with newly learnt skills. Some the technologies applied during the process were JavaScript, HTML, and CSS.
+
+Below is a snapshot of the App:
+![image](https://user-images.githubusercontent.com/82301113/135478503-e9277494-ab6e-4cb2-a88c-0c32991edec1.png)
+
+A link to the deployed App can be found here: https://anjeh24.github.io/react-portfolio/#about
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
